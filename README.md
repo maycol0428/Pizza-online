@@ -24,7 +24,7 @@ Hi! My name is **Maycol Elcorrobarrutia Medina**.
 **For Admin**
 
 - `/admin/orders`
-- `/admin/order/status'
+- `/admin/order/status`
 
 ## Env Variables
 
