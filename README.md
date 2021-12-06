@@ -31,9 +31,10 @@ Hi! My name is **Maycol Elcorrobarrutia Medina**.
 Make Sure to Create a config.env file in backend/config directory and add appropriate variables in order to use the app.
 
 **Essential Variables**
-COOKIE_SECRET
-MONGO_CONNECTION_URL
-STRIPE_PRIVATE_KEY
+
+- COOKIE_SECRET
+- MONGO_CONNECTION_URL
+- STRIPE_PRIVATE_KEY
 
 ## Author
 
